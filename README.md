@@ -450,7 +450,7 @@ This project is licensed under the MIT License.
 ## 🎓 About
 
 **Created**: 2025-11-19
-**Author**: OpenShift Community
+**Author**: @wangke19
 **Purpose**: Democratize access to expert-level OpenShift diagnostics through AI assistance
 
 ---
